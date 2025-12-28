@@ -11,7 +11,7 @@ Here you’ll find:
 - 🐍 Python-based data exploration and automation  
 - 📈 Excel-based analysis and reporting  
 
-Let’s learn, build, and grow—one project at a time 🚀  
+⭐ Explore, connect, and let’s build something meaningful.
 
 ---
 
@@ -22,26 +22,8 @@ Let’s learn, build, and grow—one project at a time 🚀
 
 ---
 
-## 💻 Tech Stack
-
-### 🧠 Languages & Querying
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 Data & BI
-![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🛠️ Systems & Tools
-![Unix](https://img.shields.io/badge/unix-000000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📈 Data Libraries
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
+## 💻 Tech Stack  
+🐍 Python • 🗄️ SQL • 🐬 MySQL • 🗄️ SQL Server • 📊 Power BI • 📈 Excel • ☁️ AWS • 🐧 Linux • 🔁 Git
 
 ---
 
-⭐ Explore, connect, and let’s build something meaningful.
